@@ -5,7 +5,7 @@ Postman Employers Add
 
 Postman Employers GetAll
 ![Ekran Resmi 2024-03-08 22 06 15](https://github.com/sedabasaran/HMRS-App/assets/58148544/7f58ee19-8613-40ee-bdbf-88dfa3dc02dc)
-
+d
 
 
 Postman JobSeeker Add
